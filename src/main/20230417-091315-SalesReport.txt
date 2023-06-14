@@ -1,0 +1,22 @@
+Sales Report
+--------------------
+Date: 04/17/2023 09:13:15 AM
+
+A1 | Potato Crisps | $0.00
+A2 | Stackers | $0.00
+A3 | Grain Waves | $0.00
+A4 | Cloud Popcorn | $0.00
+B1 | Moonpie | $0.00
+B2 | Cowtales | $0.00
+B3 | Wonka Bar | $0.00
+B4 | Crunchie | $0.00
+C1 | Cola | $0.00
+C2 | Dr. Salt | $0.00
+C3 | Mountain Melter | $0.00
+C4 | Heavy | $0.00
+D1 | U-Chews | $0.00
+D2 | Little League Chew | $0.00
+D3 | Chiclets | $0.00
+D4 | Triplemint | $0.00
+
+Total Sales: $0.00
